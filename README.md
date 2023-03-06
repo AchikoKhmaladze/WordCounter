@@ -1,3 +1,3 @@
 # WordCounter
 
-live link: https://khmalaa.github.io/WordCounter/
+live link: https://AchikoKhmaladze.github.io/WordCounter/
